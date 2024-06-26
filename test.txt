@@ -1,2 +1,2 @@
 test pull with jenkins
-ini baru
+kirim ke branc main
